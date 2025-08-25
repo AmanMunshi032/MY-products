@@ -6,7 +6,7 @@ import { MongoClient, ServerApiVersion } from "mongodb";
     Addproductcollection :"products"
 }
  export default function dbconnection(collectioName) {
-  const uri = process.env.MONGDB_URL
+  const uri = process.env.NEXT_PUBLIC_MONGDB_URL
   
 // Create a MongoClient with a MongoClientOptions object to set the Stable API version
 
