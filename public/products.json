@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Smartphone Pro X",
+    "image": "https://example.com/images/smartphone.jpg",
+    "price": 799,
+    "description": "A high-performance smartphone with an advanced camera and sleek design.",
+    "features": [
+      "6.7-inch AMOLED display",
+      "Triple 48MP Camera",
+      "5000mAh Battery",
+      "5G Connectivity"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Wireless Headphones",
+    "image": "https://example.com/images/headphones.jpg",
+    "price": 199,
+    "description": "Noise-canceling wireless headphones with immersive sound quality.",
+    "features": [
+      "Active Noise Cancellation",
+      "40 Hours Battery Life",
+      "Bluetooth 5.2",
+      "Comfortable Over-Ear Design"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Gaming Laptop",
+    "image": "https://example.com/images/laptop.jpg",
+    "price": 1299,
+    "description": "A powerful gaming laptop built for speed, graphics, and multitasking.",
+    "features": [
+      "Intel i7 12th Gen",
+      "RTX 3060 GPU",
+      "16GB RAM",
+      "1TB SSD Storage"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Smartwatch Fit Pro",
+    "image": "https://example.com/images/smartwatch.jpg",
+    "price": 249,
+    "description": "A stylish smartwatch with health tracking and customizable watch faces.",
+    "features": [
+      "Heart Rate Monitor",
+      "Sleep Tracking",
+      "Water Resistant",
+      "Customizable Straps"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "4K Ultra HD TV",
+    "image": "https://example.com/images/tv.jpg",
+    "price": 999,
+    "description": "A 55-inch smart TV with stunning 4K resolution and HDR support.",
+    "features": [
+      "55-inch 4K UHD Display",
+      "Dolby Vision & HDR10+",
+      "Smart TV Apps",
+      "Voice Assistant Support"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "DSLR Camera Pro",
+    "image": "https://example.com/images/camera.jpg",
+    "price": 1599,
+    "description": "Professional DSLR camera designed for photographers and creators.",
+    "features": [
+      "24.2MP Full-Frame Sensor",
+      "4K Video Recording",
+      "Dual Autofocus System",
+      "Interchangeable Lenses"
+    ]
+  }
+]
